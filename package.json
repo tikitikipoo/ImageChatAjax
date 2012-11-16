@@ -1,0 +1,15 @@
+{
+  "name": "livechatajax",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "async": "0.1.22",
+    "request": "2.11.4",
+    "mongoose": "3.3.1",
+    "express": "3.0.0beta4",
+    "jade": "*"
+  }
+}
